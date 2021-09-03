@@ -1,0 +1,212 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	font-family: sans-serif;
+}
+#nav-bar 
+{
+	position: sticky;
+	top: o;
+	z-index: 10;
+}
+.active, .navbar-nav li:hover
+{
+	background: #800080;
+	border-radius: 10px;
+}
+. img
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.navbar
+{
+	background-image: linear-gradient(to right, #a517ba, #5f1782);
+	padding: 0 !important;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-bars
+{
+	color: #fff;
+	font-size: 30px !important;
+}
+.navbar-toggler
+{
+	outline: none !important;
+}
+
+/*----------------banner section---------------------------------*/
+
+h1 {
+	text-decoration: underline;
+}
+
+
+banner
+{
+	background-image: linear-gradient(to right, #a517ba, #5f1782);
+	color: #fff;
+	padding-top: 5%;
+}
+.promo-title
+{
+	font-size: 40px;
+	font-weight: 100;
+	margin-top: 50px;
+}
+#banner a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.bottom-img
+{
+	width: 100%;
+}
+.bottom-img
+{
+	width: 100%;
+}
+.header
+{
+	text-decoration-color: black;
+	text-align: center;
+}
+.myslides {display: none;}
+container
+{
+	position: ;
+	width: 100%;
+	bottom: o;
+	background: rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+}
+*{
+	box-sizing: border-box;
+}
+.column
+{
+	float: left;
+	width: 24%;
+	padding: 35px;
+	height: 480px;
+}
+#header
+{
+	text-align: center;
+
+}
+.row:after
+{
+    display: table;
+    clear: both;
+}
+
+/*------------about-us section--------------------------------*/
+
+
+#about-us
+{
+	background: #e0ffff; 
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.about-title
+{
+	font-size: 40px;
+	font-weight: 600;
+	margin-top: 8%;
+}
+#about-us ul li
+{
+	margin: 10px 0;
+}
+#about-us ul
+{
+	margin-left: 20px;
+}
+#img-fluid
+{
+	max-width: 80%;
+	height: auto;
+}
+#testimoials
+{
+	margin: 100px o;
+}
+.testimoials
+{
+	border-left: 4px solid #7b1798;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.testimoials img
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.user-details
+{
+	display: inline-block;
+	font-size: 20px;
+}
+#social-media
+{
+	background: #e6e6fa;
+	padding: 100px 0;
+}
+#social-media p
+{
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+.social-icons img
+{
+	width: 50px;
+	transition: 0.5s;
+}
+.social-icons a:hover img
+{
+    transform: translateY(-10px);
+}
+.made
+{
+	padding: 5px;
+	margin-top: 30px;
+	margin-left: 470px
+}
+#com	
+{
+	text-align: left;
+	
+}
+
+
+
+
+
+
+
+
+
+
